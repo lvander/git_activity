@@ -33,7 +33,7 @@
 			</BatchField>
 		</xsl:for-each>			
 			<BatchField>
-				<xsl:attribute name="Name">DateNumerisation</xsl:attribute>
+				<xsl:attribute name="Name">DateScan</xsl:attribute>
 				<xsl:attribute name="Value">
 					<xsl:for-each select="/Batch/Indexes/Index">
 						<xsl:if test="./@Name='Timestamp'">				
