@@ -5,7 +5,7 @@
 	<BatchField Name="Flux" Value="ADHESION">
 	</BatchFields>
 	<Documents>
-		<Document FormTypeName="toto">
+		<Document FormTypeName="Adhesion_frm">
 			<IndexFields>
 				<IndexField Name="BoiteArchive" Value="CAEB-20150708-000237-000002">
 				<IndexField Name="SCANDATE" Value="MaValeur">
@@ -14,7 +14,7 @@
 				<Page ImportFileName="10000002.tif" />
 			</Pages>
 		</Document>
-		<Document FormTypeName="toto">
+		<Document FormTypeName="Adhesion_frm">
 			<IndexFields>
 				<IndexField Name="BoiteArchive" Value="CAEB-20150708-000237-000003">
 				<IndexField Name="SCANDATE" Value="MaValeur">
@@ -23,7 +23,7 @@
 				<Page ImportFileName="10000003.tif" />
 			</Pages>
 		</Document>
-		<Document FormTypeName="toto">
+		<Document FormTypeName="Adhesion_frm">
 			<IndexFields>
 				<IndexField Name="BoiteArchive" Value="CAEB-20150708-000237-000004">
 				<IndexField Name="SCANDATE" Value="MaValeur">
@@ -32,7 +32,7 @@
 				<Page ImportFileName="10000004.tif" />
 			</Pages>
 		</Document>
-		<Document FormTypeName="toto">
+		<Document FormTypeName="Adhesion_frm">
 			<IndexFields>
 				<IndexField Name="BoiteArchive" Value="CAEB-20150708-000237-000005">
 				<IndexField Name="SCANDATE" Value="MaValeur">
@@ -41,7 +41,7 @@
 				<Page ImportFileName="10000005.tif" />
 			</Pages>
 		</Document>
-				<Document FormTypeName="toto">
+				<Document FormTypeName="Adhesion_frm">
 			<IndexFields>
 				<IndexField Name="BoiteArchive" Value="CAEB-20150708-000237-000006">
 				<IndexField Name="SCANDATE" Value="MaValeur">
